@@ -1,0 +1,20 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --use_strict index.js"
+  },
+  "keywords": [],
+  "author": "Marshall Mask",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "@polkadot/api": "^10.2.1",
+    "@polkadot/types": "^10.2.1",
+    "web3": "^1.9.0"
+  }
+}
